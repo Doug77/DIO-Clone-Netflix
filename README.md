@@ -1,6 +1,6 @@
 ## DIO-Clone-Netflix
 
-### Recriando a interface do principal site de streaming mundial 
+### Recriando a interface Netflix 
 
 #### utilizando tecnologias simples como: 
  - [x] HTML5
