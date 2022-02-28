@@ -7,4 +7,4 @@
  - [x] CSS3
  - [x] JavaScript
   
-#### Estruturando o layout com técnicas de CSS3, containers e variáveis. Posicionando elementos com Flexbox e utilizando plugins JQuery a favor da aplicação.
+#### Estruturando o layout com técnicas de CSS3, containers e variáveis. Posicionando elementos com Flexbox a favor da aplicação.
